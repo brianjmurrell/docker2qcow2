@@ -1,0 +1,8 @@
+label: dos
+label-id: 0x2e31b8c3
+device: disk.img
+unit: sectors
+sector-size: 512
+
+disk.img1 : start=        2048, size=     1024000, type=83
+disk.img2 : start=     1026048, size=     3166208, type=83
